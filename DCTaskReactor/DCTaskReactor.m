@@ -7,7 +7,6 @@
 //
 
 #import "DCTaskReactor.h"
-#import "DCTaskReactorException.h"
 #import "NSMutableArray+Extention.h"
 
 @interface DCTaskReactor ()
